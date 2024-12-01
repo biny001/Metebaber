@@ -14,3 +14,5 @@ export const workspaces = pgTable("workspaces", {
   logo: text("logo"),
   bannerUrl: text("banner_url"),
 });
+
+export const;
