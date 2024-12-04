@@ -8,6 +8,20 @@
       "when": 1733053665850,
       "tag": "0000_talented_celestials",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1733059088432,
+      "tag": "0001_deep_the_phantom",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1733254941503,
+      "tag": "0002_omniscient_masque",
+      "breakpoints": true
     }
   ]
 }
